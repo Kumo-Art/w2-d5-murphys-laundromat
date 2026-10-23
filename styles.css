@@ -1,0 +1,9 @@
+#board .machine {
+  background-color: white;
+  border: 1px solid #94a3b8;
+  cursor: pointer;
+}
+
+.machine h2 {
+  font-weight: bold;
+}
